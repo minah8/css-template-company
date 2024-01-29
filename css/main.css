@@ -529,3 +529,44 @@ section.sns ul li .bottom p.time i {
     margin-right: 5px;
     font-size: 0.9em;
 }
+
+/* footer style */
+
+footer {
+    border-top: 1px solid #999;
+}
+
+footer .inner {
+    margin: 20px 80px;
+}
+
+footer .inner .ft-logo,
+footer .inner .address {
+    float: left;
+}
+
+footer .inner .address {
+    margin: 15px 0 0 60px;
+}
+
+footer .inner .address .en {
+    color: #999;
+    font-size: 0.9em;
+    margin-top: 7px;
+}
+
+footer .inner .list {
+    float: right;
+    margin: 10px;
+}
+
+footer .inner .list li {
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 0.9em;
+
+}
+
+footer .inner .list li:last-child {
+    font-weight: 700;
+}
